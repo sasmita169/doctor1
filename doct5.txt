@@ -1,0 +1,17 @@
+A dialogue between doctor and patient about fever:
+Kabir	Good morning, doctor.
+Doctor	very good morning, pleas sit down.
+Kabir	Thank you. Can you check my health?
+Doctor	Sure. What’s your problem?
+Kabir	I have been suffering from fever for the last three days. My final exam is very near and I’m so worried about my preparation.
+Doctor	Don’t be worried. Do you have any other symptoms?
+Kabir	Yes, I do not feel any taste of food and also feel headache.
+Doctor	Ok, let me check you. Please lie down on the bed.
+Kabir	Sure, doctor.
+Doctor	I am going to check your temperature. At this time the fever is 102 degrees. Don’t worry Kabir, you are suffering from regional fever.
+Kabir	What should I do?
+Doctor	I am giving you some medicine. Take these medicines for a weak. You will be all right in a couple of days.
+Kabir	Doctor, should I need any other tests?
+Doctor	No, there is nothing serious. Just follow my prescription.
+Kabir	Thank you, doctor.
+Doctor	You’re welcome. Take care.

@@ -1,0 +1,23 @@
+Patient: Good Morning doctor.
+Doctor: Good morning! You seem pale and your voice sounds different.
+Patient: Yes doctor. I’m having a temperature and even a sore throat.
+Doctor: Let me check.
+Doctor: You have a moderate fever. Let me check your temperature.
+(Doctor uses a thermometer to check the temperature of a patient by snapping around one of the fingers)
+Patient: This thermometer is different from the last one you used.
+Doctor: Yes, this is introduced newly by medical supplies companies. It’s much more comfortable and doesn’t need cleaning after every use.
+Patient: That’s really great.
+Doctor: Yes it is.
+(Now he removed the thermometer)
+Doctor: Temperature is not too high, around 99.8. Let me check your blood pressure as well.
+(He then continues with measuring blood pressure.)
+Doctor: Your blood pressure is fine.
+(Now, he checks the throat.)
+Doctor: It seems a bit scruffy. Not good.
+Patient: Yes, it has been quite bad.
+Doctor: Do you sweat and shiver?
+Patient: Not sweating, but I feel slightly cold when I sit under a fan.
+Doctor: Ok. You have few signs of malaria. I would recommend you undergo a blood test. Nothing to worry about. In most cases, the test comes out to be negative. It’s just careful, as there has been a spurt in malaria cases in the last month or so.
+Doctor: I am writing three medicines and syrup. The number of dots in front of each medicine name tells you how many times in the day you have to take them. For example, the two dots here mean you’ve to take the medicine twice in the day, once in the morning and once after dinner.
+Doctor: Do you have any other questions?
+Patient: No, doctor. Thank you.

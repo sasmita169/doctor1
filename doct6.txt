@@ -1,0 +1,17 @@
+Conversation Between Doctor and Patient
+Doctor: Hello! What can I do for you?
+Patient: Good Morning Doctor. I don't feel good.
+Doctor: Come and sit here.
+Doctor: Open your mouth.
+Doctor: Since how long are you not feeling well?
+Patient: Since yesterday.
+Doctor: No problem. Did you have motions yesterday? Topper
+Patient: No Doctor. Not so freely.
+Patient: Doctor I feel weak and do not feel like
+Doctor: Ok. And what else?
+eating.
+Patient: I feel like vomiting.
+Doctor: Do you drink a lot of water?
+Patient: No Doctor, I don't have water too much.
+Doctor: Did you took any medicine?
+Patient: Yes Doctor, I took a Crocin.
